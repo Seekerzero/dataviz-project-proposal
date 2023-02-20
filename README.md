@@ -8,7 +8,7 @@ The data I propose to visualize for my project is ...
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/vaccine.jpg)]([https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?edit=files&file=viz.js))
+[![image](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/vaccine.png)]([https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?edit=files&file=viz.js))
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
