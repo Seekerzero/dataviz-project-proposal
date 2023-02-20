@@ -8,7 +8,7 @@ The data I propose to visualize for my project is ...
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c)
+<iframe width="560" height="292" src="https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?mode=embed" title="Bar Chart Of World Vaccination Data" frameborder="0" ></iframe>
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
