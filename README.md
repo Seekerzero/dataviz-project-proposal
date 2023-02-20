@@ -15,7 +15,7 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 You can make images into links like this:
 
 ```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)]([https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?edit=files&file=viz.js))
 ```
 
 
