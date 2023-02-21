@@ -48,7 +48,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-![image-20230220204533373](C:\Users\Seeker\Desktop\dataviz-project-proposal\vaccine output.png)
+![image-20230220204533373](https://github.com/Seekerzero/dataviz-project-proposal/blob/master/vaccine%20output.png)
 
 This sketch introduces how different types of vaccines being sold (transferred) in the world. The purple one represents the producer (country), where the curves connect to a different country that the vaccine gets to. Different colors of curves represent different vaccine.
 
