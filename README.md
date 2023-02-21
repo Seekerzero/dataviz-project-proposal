@@ -52,7 +52,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 This sketch introduces how different types of vaccines being sold (transferred) in the world. The purple one represents the producer (country), where the curves connect to a different country that the vaccine gets to. Different colors of curves represent different vaccine.
 
-![image-20230220204926460](C:\Users\Seeker\Desktop\dataviz-project-proposal\vaccine population.png)
+![image-20230220204926460](https://github.com/Seekerzero/dataviz-project-proposal/blob/master/vaccine%20population.png)
 
 This sketch introduces the proportion of vaccinated population in each country. the percentage of color filled represent the proportion. Different color can represent different types of doses.
 
