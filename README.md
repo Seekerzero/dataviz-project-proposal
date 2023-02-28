@@ -33,6 +33,7 @@ I’ve created a proof of concept visualization of this data. In the picture bel
 
 [![image](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/vaccine.png)]([https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?edit=files&file=viz.js))
 
+<iframe width="560" height="292" src="https://vizhub.com/Seekerzero/ecd57281d8a74c9192db54085e9753af?mode=embed" title="Loading Vaccination population into globe" frameborder="0" ></iframe>
 ([https://vizhub.com/Seekerzero/ecd57281d8a74c9192db54085e9753af](https://vizhub.com/Seekerzero/ecd57281d8a74c9192db54085e9753af?edit=files&file=index.html))
 ```
 [![image](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/vaccine.jpg)]([https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?edit=files&file=viz.js))
