@@ -66,4 +66,6 @@ This sketch introduces the proportion of vaccinated population in each country. 
 - Week 11: Vaccine Transfer viz starts
 - Week 12: Animation on the viz.
 - Week 13: Transition between viz.
+
+![image-20230220204926460](https://github.com/Seekerzero/dataviz-project-proposal/blob/master/global_vaccination_portion.png)
 - Week 14: Refine the work, packaging
