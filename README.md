@@ -62,10 +62,12 @@ This sketch introduces the proportion of vaccinated population in each country. 
 
 - Week 7&8(9): Get the globe out and map the data into each region.
 - Week 9: Get the population viz done.
-- Week 10:Create interaction for different regions.
+- Week 10: Create interaction for different regions.
 - Week 11: Vaccine Transfer viz starts
 - Week 12: Animation on the viz.
 - Week 13: Transition between viz.
+
+![image-20230220204926460](https://github.com/Seekerzero/dataviz-project-proposal/blob/master/global_vaccination_portion.png)
 - Week 14: Refine the work, packaging
 
 
