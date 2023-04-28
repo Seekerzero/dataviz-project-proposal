@@ -49,7 +49,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-![image-20230220204926460](https://github.com/Seekerzero/dataviz-project-proposal/blob/master/vaccine%20population.png)
+![image](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/vaccine%20population.png)
 
 This sketch introduces the proportion of vaccinated population in each country. the percentage of color filled represent the proportion. Different color can represent different types of doses.
 
@@ -58,7 +58,7 @@ This sketch introduces the proportion of vaccinated population in each country. 
 - A appropriate API for globe visualization
 - Transition between different visualization graph. (Interaction)
 
-## Milestones
+## Planning Milestones
 
 - Week 7&8(9): Get the globe out and map the data into each region.
 - Week 9: Get the population viz done.
@@ -67,3 +67,65 @@ This sketch introduces the proportion of vaccinated population in each country. 
 - Week 12: Animation on the viz.
 - Week 13: Transition between viz.
 - Week 14: Refine the work, packaging
+
+
+
+## Implementation
+
+### First Implementation:
+
+[First Implementation](https://vizhub.com/Seekerzero/56fd93d1c4e24f47aa756e3b50b6d611?edit=files&file=index.html)
+
+#### Features achieved:
+
+At the first implementation, I map the data into playing globe template from the [vizhub](https://vizhub.com/aishwarya8615/f44704d93554421a828fa7f23a11371c) . Using this template, I successfully load the total vaccination number, vaccinated portion from the dataset, also load the population growth of 2022 for each country into the template to replace the original old one. Where the each data could be switched by toggle to button on the right hand side. This template also include the feature that allows user to see the data value when the mouse is hover on the globe. The following are the pictures for the different data load:
+Total Vaccination on globe
+
+Vaccinated Portion on globe
+
+Population Growth on globe
+
+Also the globe could be also transform to a map, here is one of the examples:
+
+Population Growth on map:
+
+The template can also transform the data value into a scatter plot which the reference axis is the country GDP. In this implementation, I also replace the data to a 2022 newer data. Here is one of the examples:
+
+Total Vaccination shot data in a diagram:
+
+
+
+
+
+#### Problem of the first template:
+
+While the template have already setup the logic for transformation between each data, it contains several drawbacks:
+
+1. The code is based on old html version. Most of the code were written inside the index.html, which makes the code hard to edit and customize.
+2. All the data has to be retrieved one by one, since the state machine is based on dataset-wise switching. It is hard to edit the structure into the attribute based switching. So I have to convert the existing dataset into several smaller one, where all of them has to map with the country iso3 code first.
+3. The diagram does not make sense and also the globe is not necessary for the data reading. Even though the diagram is implemented, it does not make sense to map the data correlated to gdp, which is hard make any explanation. Also even the globe looks cool, but it actually affect the visualization efficiency.
+
+### Second Implementation:
+
+[Second Implementation](https://vizhub.com/Seekerzero/2da939c6f5af4d84aa5f464a8556bab0?edit=files)
+
+Given the experience from the first implementation. I develop a new scripts that allows better maintenance and visualize performance. And its original from the lecture template that Professor Kelleher provided from the course ([origInal template](https://vizhub.com/curran/f2199edb602a4a28af5f797381eca5d5)). Where in this implementation, I use a drop down menu to change the data source and also use a the toggle button to switch between the data map to a bar chart which shows the top 10 country in this data. The drop down menu works in the both states either in the map and in the bar chart. Where inside the bar chart, each bar use different color, also the data value is shown on the top of the bar.
+
+The following are the pictures show this implementation:
+
+The maps:
+
+The bar chart:
+
+
+
+
+
+
+
+## Future work
+
+1. Adding time scale to change the data based on the date.
+2. More interaction, especially include multi data show together inside the one chart.
+
+​                                                                                             
