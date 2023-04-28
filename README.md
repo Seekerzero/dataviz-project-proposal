@@ -51,11 +51,6 @@ I’ve created a proof of concept visualization of this data. In the picture bel
 
 This sketch introduces the proportion of vaccinated population in each country. the percentage of color filled represent the proportion. Different color can represent different types of doses.
 
-## Open Questions
-
-- A appropriate API for globe visualization
-- Transition between different visualization graph. (Interaction)
-
 ## Planning Milestones
 
 - Week 7&8(9): Get the globe out and map the data into each region.
