@@ -25,7 +25,14 @@ The dataset is group by country, which shows vaccinated population and vaccine d
 - quantitative: PERSONS_BOOSTER_ADD_DOSE	Integer	Persons received booster or additional dose.
 - quantitative: PERSONS_BOOSTER_ADD_DOSE_PER100	Decimal	Persons received booster or additional dose per 100 population.
 
+## Questions & Tasks
 
+The following tasks and questions will drive the visualization and interaction decisions for this project:
+
+ * which country has largest number of vaccinated population and its vaccination types?
+ * which country has largest number of vaccinated first dose population and its vaccination types.
+ * which country has largest number of vaccinated second dose population and its vaccination types.
+ * what is the largest number of vaccine dose type and it vaccinated distribution of countries.
 
 ## Prototypes
 
@@ -37,15 +44,6 @@ I’ve created a proof of concept visualization of this data. In the picture bel
 ```
 [![image](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/vaccine.jpg)]([https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c](https://vizhub.com/Seekerzero/661e60f4405d4a29ac2d1808692a287c?edit=files&file=viz.js))
 ```
-
-## Questions & Tasks
-
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * which country has largest number of vaccinated population and its vaccination types?
- * which country has largest number of vaccinated first dose population and its vaccination types.
- * which country has largest number of vaccinated second dose population and its vaccination types.
- * what is the largest number of vaccine dose type and it vaccinated distribution of countries.
 
 ## Sketches
 
