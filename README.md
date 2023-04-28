@@ -81,21 +81,29 @@ This sketch introduces the proportion of vaccinated population in each country. 
 #### Features achieved:
 
 At the first implementation, I map the data into playing globe template from the [vizhub](https://vizhub.com/aishwarya8615/f44704d93554421a828fa7f23a11371c) . Using this template, I successfully load the total vaccination number, vaccinated portion from the dataset, also load the population growth of 2022 for each country into the template to replace the original old one. Where the each data could be switched by toggle to button on the right hand side. This template also include the feature that allows user to see the data value when the mouse is hover on the globe. The following are the pictures for the different data load:
-Total Vaccination on globe
+Total Vaccination on globe:
 
-Vaccinated Portion on globe
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p1.png)
 
-Population Growth on globe
+Vaccinated Portion on globe:
+
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p2.png)
+
+Population Growth on globe:
+
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p3.png)
 
 Also the globe could be also transform to a map, here is one of the examples:
 
 Population Growth on map:
 
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p4.png)
+
 The template can also transform the data value into a scatter plot which the reference axis is the country GDP. In this implementation, I also replace the data to a 2022 newer data. Here is one of the examples:
 
 Total Vaccination shot data in a diagram:
 
-
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p5.png)
 
 
 
@@ -115,11 +123,17 @@ Given the experience from the first implementation. I develop a new scripts that
 
 The following are the pictures show this implementation:
 
-The maps:
+The map for vaccinated portion:
+
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p6.png)
+
+The map for fully vaccinated population:
+
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p7.png)
 
 The bar chart:
 
-
+![](https://raw.githubusercontent.com/Seekerzero/dataviz-project-proposal/master/pics/final_p8.png)
 
 
 
