@@ -29,10 +29,10 @@ The dataset is group by country, which shows vaccinated population and vaccine d
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * which country has largest number of vaccinated population and its vaccination types?
- * which country has largest number of vaccinated first dose population and its vaccination types.
- * which country has largest number of vaccinated second dose population and its vaccination types.
- * what is the largest number of vaccine dose type and it vaccinated distribution of countries.
+ * which country has largest number of fully vaccinated population?
+ * which country has largest vaccinated portion.
+ * which country has largest number of vaccination shot.
+ * more...
 
 ## Prototypes
 
